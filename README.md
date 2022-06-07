@@ -4,5 +4,4 @@
 
 - In this Project I used STM32 Family Micro-controller STM32F407G
 - Driver Development is done from Scratch using C and C++ Modular Programming and have more than 600 lines of code.
-- In this all Interrupt Handling both Software and Hardware.
-- [] Hello
+- In this both Interrupt Handled \textbf{Software and Hardware.
